@@ -52,12 +52,6 @@ a:hover {
     text-decoration: underline;
 }
 
-#transparente01 {
-    display: inline-block;
-    transform: translate(+37vw, -5vh);
-    position: relative;
-}
-
 section {
     font-family: var(--fonte03);
     line-height: 3.3em;
